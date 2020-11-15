@@ -1,1 +1,1 @@
-Part of Program Exercise for chap 3
+Part of Program Exercise for Chapter 3
