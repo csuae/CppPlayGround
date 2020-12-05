@@ -25,7 +25,7 @@ int main()
 		cout << "Enter step length: ";
 		if (!(cin >> dstep))
 			break;
-		outFile << "Target Distance: " << target << "Step Size: " << dstep << endl;
+		outFile << "Target Distance: " << target << ", Step Size: " << dstep << endl;
 		outFile << "0: (x,y) = (0, 0)\n";
 		while (result.magval() < target)
 		{
